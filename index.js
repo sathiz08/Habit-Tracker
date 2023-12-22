@@ -1,6 +1,7 @@
 // Express importing 
 
 const express = require('express');
+const host = 0.0.0.0;
 const port = 8888;
 const app = express();
 
