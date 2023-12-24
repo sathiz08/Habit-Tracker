@@ -76,7 +76,7 @@ module.exports.destroySession = async function(req, res, done) {
 // redirects the user to foget password page
 module.exports.forgetPassword = async function(req, res) {
     try {
-        return res.render('forget_password', {
+        return res.render('forgot_password', {
             title: "Reset Password"
         });
     } catch (error) {
