@@ -10,7 +10,7 @@ body {
 /* ---------- styles on welcome page ---------- */
 
 .welcome-title {
-    color: rgb(255 221 208);
+    color: blueviolet;
     font-size: 40px;
     font-weight: 700;
     text-align: center;
