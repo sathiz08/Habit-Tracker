@@ -10,6 +10,7 @@ We would able to see task weekly as well as for a specific day.
 Folder Structure:
 
 assets -> This folder would be having the css file and the js file
+
 config -> This folder would be having the configuration file
 controllers -> This folder would be having function which needs to be taken place at each action
 dict -> This folder would be having environment based index file which would be helpful when we are building the application on the QA and PROD as well.
